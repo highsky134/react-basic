@@ -17,3 +17,7 @@ $ cd 프로젝트폴더
 $ npm start
 ```
 - http://localhost:3000 에서 프론트엔드 서버 실행
+
+
+5. react 플러그인 ES7+ ~ 설치 (템플릿)
+- 사용법 : js 내부에서 rafce 엔터
