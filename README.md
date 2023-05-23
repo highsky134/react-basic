@@ -1,4 +1,6 @@
 # 리액트 프로젝트 시작하기
+## git clone시 주의사항
+- 터미널에서 `$ npm install` 명령을 터미널에서 실행하여 라이브러리 설치
 
 1. nodejs 설치
 2. create-react-app 설치 (최초1번)
